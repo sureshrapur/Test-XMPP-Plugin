@@ -1,0 +1,97 @@
+#kendoUiMobileApp .image-with-text img {
+    float: left;
+    margin-right: 15px;
+}
+
+#kendoUiMobileApp .button-block,
+#kendoUiMobileApp .block {
+    display: block;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+}
+
+#kendoUiMobileApp .button-submit {
+    background-color: #10c4b2;
+    color: white;
+}
+
+#kendoUiMobileApp .button-group {
+    width: 100%;
+    display: table;
+    border-collapse: separate;
+    border-spacing: 1em;
+}
+
+#kendoUiMobileApp .button-block {
+    display: table-cell;
+}
+
+#kendoUiMobileApp .button-small {
+    display: block;
+    margin: 1em 0;
+    padding: .6em .8em;
+}
+
+#kendoUiMobileApp .group-separator {
+    border: none;
+    background: transparent;
+}
+
+#kendoUiMobileApp .group-separator-header {
+    margin: 1em 0;
+}
+
+#kendoUiMobileApp .app-icon {
+    text-align: center;
+    margin: 3em 0;
+}
+
+#kendoUiMobileApp .view-title {
+    text-align: center;
+    font-weight: normal;
+}
+
+#kendoUiMobileApp .km-drawer-button:after,
+#kendoUiMobileApp .km-drawer-button:before {
+    content: '\e077';
+}
+
+#kendoUiMobileApp .icon-wrapper {
+    position: relative;
+    margin: 3em 1em;
+}
+
+#kendoUiMobileApp .icon-wrapper.has-icon {
+    padding-left: 6em;
+}
+
+#kendoUiMobileApp .icon-wrapper .app-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 5em;
+    height: 5em;
+    overflow: hidden;
+}
+
+#kendoUiMobileApp .icon-wrapper img {
+    max-width: 100%;
+    height: auto;
+}
+
+#kendoUiMobileApp .icon-wrapper h2,
+#kendoUiMobileApp .icon-wrapper h4 {
+    font-weight: normal;
+    margin-left: 0;
+}
+
+#kendoUiMobileApp .icon-wrapper h2 {
+    margin-bottom: 0.5em;
+}
+
+#kendoUiMobileApp .icon-wrapper h4 {
+    color: #828282;
+    margin-top: 0;
+}

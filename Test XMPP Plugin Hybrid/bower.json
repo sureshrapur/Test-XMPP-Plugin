@@ -1,5 +1,5 @@
 {
-    "name": "kendouimobileapp",
+    "name": "kendoUiMobileApp",
     "private": true,
     "dependencies": {
         "kendo-ui-appbuilder-core": "*",

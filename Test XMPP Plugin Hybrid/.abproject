@@ -5,7 +5,7 @@
   "AppIdentifier": "com.telerik.TestXMPPPluginHybrid",
   "DisplayName": "Test XMPP Plugin Hybrid",
   "Author": "",
-  "Description": "",
+  "Description": "Test XMPP Plugin Hybrid",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [

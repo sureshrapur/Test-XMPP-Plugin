@@ -43,13 +43,13 @@
             alert(status);
             if (status == Strophe.Status.CONNECTED) {
                 alert('XMPP connection successful!');
-/*
+
                 connection.addHandler(on_chat_message, null, 'message', 'chat');
                 connection.addHandler(on_presence, null, 'presence');
                 connection.addHandler(on_error_iq, null, 'iq', 'error');
 
                connection.send($pres());
-               */
+               
             }
         };
 
